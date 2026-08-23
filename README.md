@@ -1,95 +1,80 @@
-<div align="center">
+<h1 align="center">THARUN</h1>
 
-# THARUN
+<p align="center">
+  <strong>Building with purpose. Learning through execution.</strong>
+</p>
 
-### Building with purpose. Learning through execution.
+<p align="center">
+  Student • Builder • Problem Solver
+</p>
 
-**Student • Builder • Problem Solver**
-
-[GitHub](https://github.com/tharun-8t)
-
-</div>
+<p align="center">
+  <a href="https://github.com/tharun-8t">GitHub</a>
+</p>
 
 ---
 
 ## 👋 About Me
 
-I'm Tharun — a student focused on learning by building real things.
+I'm **Tharun** — a student who learns by building real things.
 
-I believe the best way to develop a skill is to move beyond tutorials,
-turn ideas into projects, understand what breaks, and keep improving.
+I believe the fastest way to improve is simple:
 
-This profile is a record of that journey — from small experiments to
-projects I'm genuinely proud of.
+**Learn → Build → Break → Understand → Improve**
 
----
+Rather than collecting tutorials, I focus on turning ideas into working projects and gradually making them more useful, reliable, and polished.
 
-## 🎯 Current Focus
-
-- Building projects that solve practical problems
-- Strengthening programming fundamentals
-- Learning through hands-on development
-- Improving problem-solving and technical thinking
-- Turning small ideas into complete projects
+This profile is a record of that journey — from the first lines of code to projects I'm genuinely proud of.
 
 ---
 
-## 🧠 Skills & Technologies
+## ⚡ What I'm Focused On
 
-### Programming
-`Python` • `HTML` • `CSS` • `JavaScript`
-
-### Development
-`Git` • `GitHub` • `VS Code`
-
-### Currently Exploring
-`Python Development` • `Web Development` • `Project Building`
-
-> This section will evolve as my skills grow.
+- 🧠 Strengthening my programming fundamentals
+- 🛠️ Building practical projects
+- 📚 Learning through hands-on work
+- 🔍 Understanding how things work behind the scenes
+- 🚀 Improving one project at a time
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 Current Toolkit
 
-### 🔹 AI-Portfolio
+<p align="center">
 
-My first personal development project.
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js" />
 
-**Built with:** `Python` • `Git` • `GitHub`
+</p>
 
-**What I learned**
-- Writing and running Python programs
-- Using Git for version control
-- Creating repositories on GitHub
-- Managing project history
-- Publishing projects publicly
-
-🔗 [View Repository](https://github.com/tharun-8t/AI-Portfolio)
+> My toolkit will evolve as I learn and build more.
 
 ---
 
-### 🔜 More Projects Coming
+## 📌 Featured Projects
 
-This section will be updated as I build larger and more meaningful projects.
+### 🚀 AI-Portfolio
+My personal project space — built from the ground up while learning programming, Git, and GitHub.
 
-> **The goal isn't to collect repositories.  
-> The goal is to build projects worth remembering.**
+**Status:** 🟢 Building
 
 ---
 
-## 📈 My Development Journey
+### 🔨 More projects coming
+
+This section will grow as I build bigger and more meaningful projects.
+
+**Small projects → Real projects → Bigger systems**
+
+---
+
+## 📈 My Development Philosophy
 
 ```text
-LEARN
-  ↓
-BUILD
-  ↓
-TEST
-  ↓
-BREAK
-  ↓
-FIX
-  ↓
-IMPROVE
-  ↓
-REPEAT
+Don't just copy code.
+Understand it.
+
+Don't just finish projects.
+Improve them.
+
+Don't chase perfection.
+Keep building.
