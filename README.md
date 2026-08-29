@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tharun, a Computer Science student passionate about technology, problem-solving, and building things that are useful and practical.<br><br>I'm currently developing my skills in programming, web development, Git, and software development through hands-on projects. I enjoy learning by creating real projects and continuously improving my technical skills.<br><br>Outside of academics, I'm interested in fitness, martial arts, and video editing. I'm always looking to learn something new, take on challenges, and build better things.<br><br>Hi, I'm Tharun 👋<br>Computer Science student | Learning by building | Interested in technology, programming, web development & creative work.<br><br>🚀 Building projects and improving every day<br>🥋 Martial arts enthusiast<br>🎬 Video editing<br>💻 Exploring software & web development
+.<br><br>Hi, I'm Tharun 👋<br>Computer Science student | Learning by building | Interested in technology, programming, web development & creative work.<br><br>🚀 Building projects and improving every day<br>🥋 Martial arts enthusiast<br>🎬 Video editing<br>💻 Exploring software & web development
 
 
 ## 🌐 Socials:
