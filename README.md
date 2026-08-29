@@ -1,15 +1,108 @@
-# 💫 About Me:
-.<br><br>Hi, I'm Tharun 👋<br>Computer Science student | Learning by building | Interested in technology, programming, web development & creative work.<br><br>🚀 Building projects and improving every day<br>🥋 Martial arts enthusiast<br>🎬 Video editing<br>💻 Exploring software & web development
+# Hi, I'm Tharun 👋
 
+### Computer Science Student • Builder • Lifelong Learner
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tharun_fyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/THARUN T) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tharuninfomain@gmail.com) 
+I'm a Computer Science student who enjoys learning by building real things.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+Currently, I'm strengthening my foundations in programming, web development,
+Git, GitHub, and software development through hands-on practice.
 
+I believe in learning step by step, building projects from scratch,
+and improving through consistency.
 
 ---
-[![](https://komarev.com/ghpvc/?username=tharun-8t&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science student
+- 💻 Currently learning programming and web development
+- 🐍 Working with Python
+- 🌐 Learning HTML, CSS and JavaScript
+- 🔧 Practicing Git and GitHub
+- 🎬 Interested in video editing and creative work
+- 🥋 Practicing Karate since 2014
+- 📚 Focused on continuous learning and self-improvement
+- 🌍 Interested in future opportunities abroad
+
+---
+
+## 🛠️ Skills
+
+| I Know | I'm Learning | Exploring |
+|--------|--------------|-----------|
+| 🐍 Python | 🌐 JavaScript | ⚛️ React |
+| 🔧 Git | 💻 Web Development | 🗄️ Databases |
+| 🐙 GitHub | 📐 CSS | ☁️ Cloud |
+| 🌐 HTML | 🧩 Software Development | 🚀 New Technologies |
+
+---
+
+## 💻 Tools I Use
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+### Personal Portfolio
+
+Building and improving my personal portfolio while learning
+programming, web development, Git and GitHub.
+
+### Student Expense Tracker
+
+A beginner-friendly Python application created to practice:
+
+- Python fundamentals
+- Data handling
+- JSON
+- Input validation
+- Git
+- GitHub workflow
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tharun-8t&show_icons=true&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-8t&theme=dark&hide_border=true" />
+
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun-8t&layout=compact&theme=dark&hide_border=true" />
+
+</p>
+
+---
+
+## 🎯 Currently Focused On
+
+```text
+Programming
+████████████████░░░░  Learning
+
+Web Development
+██████████████░░░░░░  Learning
+
+Git & GitHub
+████████████████░░░░  Practicing
+
+Projects
+███████████░░░░░░░░░  Building
+
+Problem Solving
+████████████░░░░░░░░  Improving
