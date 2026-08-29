@@ -1,28 +1,33 @@
-# Hi, I'm Tharun 👋
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:075E5B,100:16A34A&height=220&section=header&text=THARUN&fontSize=55&fontColor=FFFFFF&fontAlignY=43&desc=Computer%20Science%20Student%20%7C%20Tech%20Learner&descAlignY=68&descSize=20&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
-### Computer Science Student • Builder • Lifelong Learner
+<h1 align="center">👋 Hi, I'm Tharun</h1>
 
-I'm a Computer Science student who enjoys learning by building real things.
+<p align="center">
+  <strong>💻 Computer Science Student &nbsp;|&nbsp; 💡 Tech Learner &nbsp;|&nbsp; 🚀 Future Builder</strong>
+</p>
 
-Currently, I'm strengthening my foundations in programming, web development,
-Git, GitHub, and software development through hands-on practice.
-
-I believe in learning step by step, building projects from scratch,
-and improving through consistency.
+<p align="center">
+  <i>Learning today. Building tomorrow.</i>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science student
-- 💻 Currently learning programming and web development
-- 🐍 Working with Python
-- 🌐 Learning HTML, CSS and JavaScript
-- 🔧 Practicing Git and GitHub
-- 🎬 Interested in video editing and creative work
-- 🥋 Practicing Karate since 2014
-- 📚 Focused on continuous learning and self-improvement
-- 🌍 Interested in future opportunities abroad
+I'm a Computer Science student who enjoys learning by building
+real things.
+
+Currently, I'm strengthening my foundations in programming,
+web development, Git, GitHub, and software development through
+hands-on practice.
+
+I believe in learning step by step, building projects from scratch,
+and improving through consistency.
 
 ---
 
@@ -67,11 +72,19 @@ A beginner-friendly Python application created to practice:
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tharun-8t&show_icons=true&theme=dark&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-8t&theme=dark&hide_border=true" />
 
@@ -79,7 +92,7 @@ A beginner-friendly Python application created to practice:
 
 ---
 
-## 📊 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
 
