@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <i>Learning today. Building tomorrow.</i>
+  <i>Grounded in fundamentals.Driven by innovations .</i>
 </p>
 
 ---
