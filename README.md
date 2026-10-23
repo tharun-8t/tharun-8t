@@ -5,7 +5,7 @@
   />
 </p>
 
-<h1 align="center">👋 Hi, I'm Tharun</h1>
+<h1 align="center">👋  I'm Tharun</h1>
 
 <p align="center">
   <strong>💻 Computer Science Student &nbsp;|&nbsp; 💡 Tech Learner &nbsp;|&nbsp; 🚀 Future Builder</strong>
